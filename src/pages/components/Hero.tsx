@@ -7,7 +7,7 @@ const Hero = () => {
                     <figure>
                         <blockquote>
                             <p className="text-white text-3xl font-semibold sm:text-4xl">
-                                Un projet demo pour vous présenter l'utilisation du package <span className="underline underline-offset-3 decoration-8 decoration-white dark:decoration-white">Galsenify</span>.
+                                Un projet demo pour vous présenter l&apos;utilisation du package <span className="underline underline-offset-3 decoration-8 decoration-white dark:decoration-white">Galsenify</span>.
                             </p>
                         </blockquote>
                     </figure>

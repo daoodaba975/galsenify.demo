@@ -9,7 +9,7 @@ const Select = () => {
         <section className="py-12 mx-auto px-4 md:px-8 bg-white">
             <div className="max-w-lg">
                 <p className="text-gray-600 mt-2">
-                    Exemple d'utilisation dans un liste déroulante pour récuperer les différentes regions.
+                    Exemple d&apos;utilisation dans un liste déroulante pour récuperer les différentes regions.
                 </p>
                 <div className="max-w-xs mt-8">
                     <svg xmlns="http://www.w3.org/2000/svg" className="absolute top-0 bottom-0 w-6 h-6 my-auto text-gray-400 right-2.5" viewBox="0 0 20 20" fill="currentColor">

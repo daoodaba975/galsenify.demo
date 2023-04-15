@@ -9,7 +9,7 @@ const Table = () => {
         <section className="py-12 mx-auto px-4 md:px-8 bg-white">
             <div className="max-w-lg">
                 <p className="text-gray-600 mt-2">
-                    Exemple d'utilisation dans un tableau, pour afficher les regions (nom, code, nombre d'habitant et la superficie).
+                    Exemple d&apos;utilisation dans un tableau, pour afficher les regions (nom, code, nombre d&apos;habitant et la superficie).
                 </p>
             </div>
             <div className="mt-12 shadow-sm border rounded-lg overflow-x-auto">
