@@ -1,6 +1,8 @@
 # Demo Galsenify
 
-Installation :
+Un projet demo pour vous présenter l'utilisation du package Galsenify.
+
+## Installation
 
 ```bash
 npm install
@@ -8,7 +10,7 @@ npm install
 yarn
 ```
 
-Lancez le serveur de développement :
+## Lancez le serveur de développement
 
 ```bash
 npm run dev
@@ -18,4 +20,4 @@ yarn dev
 pnpm dev
 ```
 
-Ouvrir [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+Ouvrir [http://localhost:3000](http://localhost:3000) dans votre navigateur 🚀
